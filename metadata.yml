@@ -1,0 +1,12 @@
+---
+:id: 47679543
+:submitters:
+- :name: Abel Yagubyan
+  :email: abelyagubyan@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-10-06 06:20:59.536532000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-10-05 23:20:59.536532000 Z
+:status: processed
+:score: 100.0
